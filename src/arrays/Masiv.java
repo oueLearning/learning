@@ -5,5 +5,7 @@ package src.arrays;
  */
 public class Masiv {
 
+    public static void main(String[] args) {
 
+    }
 }
