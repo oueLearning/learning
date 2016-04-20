@@ -5,7 +5,7 @@ package src.arrays;
  */
 public class Masiv
 {
-    public static void maim(String [] a){
+    public static void main(String [] args){
         // масив это набор элементов одного типа
         //с произвольным доступом
 
